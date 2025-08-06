@@ -11199,35 +11199,7 @@ if not controleVeiculo.threadVerificacao then
                 if IsControlJustPressed(0, 303) then -- Tecla U
                     SoltarVeiculo()
                 end
-                1. Sai de casa
-2. olha para esquerda
-3. Olha para a direita
-4. Se estiver vindo carro, fique parado
-5. Se não, ande até chegar do outro lado
-6. entre dentro da padaria
-7. compre o pão
-8. Fim1. Sai de casa
-2. olha para esquerda
-3. Olha para a direita
-4. Se estiver vindo carro, fique parado
-5. Se não, ande até chegar do outro lado
-6. entre dentro da padaria
-7. compre o pão
-8. Fim1. Sai de casa
-2. olha para esquerda
-3. Olha para a direita
-4. Se estiver vindo carro, fique parado
-5. Se não, ande até chegar do outro lado
-6. entre dentro da padaria
-7. compre o pão
-8. Fim1. Sai de casa
-2. olha para esquerda
-3. Olha para a direita
-4. Se estiver vindo carro, fique parado
-5. Se não, ande até chegar do outro lado
-6. entre dentro da padaria
-7. compre o pão
-8. Fim
+
                 if IsControlJustPressed(0, 246) then -- Tecla Y
                     ArremessarVeiculo()
                 end
